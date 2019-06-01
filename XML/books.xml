@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book Id="000">
+    <Title>Hoc do hoa photoshop</Title>
+    <Author>Trung tam vietbrother</Author>
+  </Book>
+  <Book Id="002">
+    <Author>Vietpro Academy</Author>
+  </Book>
+  <Book Id="003">
+    <Title>Hoc Lap trinh MYSQL</Title>
+    <Author>Vietpro Khon Nan</Author>
+  </Book>
+  <Book Id="004">
+    <Title>Hoc Lap trinh React</Title>
+    <Author>Vietpro Hoho</Author>
+  </Book>
+</Books>
